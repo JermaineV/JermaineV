@@ -20,6 +20,9 @@
 - 💬 Please feel free to contact me with any opportunities: <a href="jvarnicker@gmail.com">email</a> 
 
 ---
+<h2> My Qualifications <img src = "https://media.giphy.com/media/gRN0zm4l1sJVUUoIvb/giphy.gif" width = 100px></h2></h2>
+
+---
 <h2> My Projects<img align='center'src='https://media.giphy.com/media/Cym9mYz9B5LpKJ8s2X/giphy.gif' width = '32px'></h2>
 
 [Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/projects/credit_fraud_detection.ipynb.ipynb): Model that predicts transactional credit fraud by utilizing machine learning techniques. 
@@ -62,6 +65,7 @@
 <a href = 'https://www.linkedin.com/in/jermaine-varnicker-315a8794'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://jermainev.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/JermaineV'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
 
 
 
