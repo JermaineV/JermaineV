@@ -22,8 +22,15 @@
 ---
 <h2> My Qualifications <img src = "https://media.giphy.com/media/gRN0zm4l1sJVUUoIvb/giphy.gif" width = 100px></h2></h2>
 
+[Academic results](pdf/Progress Report.pdf)
+
+Certification badge:
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b509cdcd-1d97-4ab1-8220-4e6a40f17179" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ---
 <h2> My Projects<img align='center'src='https://media.giphy.com/media/Cym9mYz9B5LpKJ8s2X/giphy.gif' width = '32px'></h2>
+
 
 [Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/projects/credit_fraud_detection.ipynb.ipynb): Model that predicts transactional credit fraud by utilizing machine learning techniques. 
 
