@@ -2,7 +2,7 @@
 <img width="100%"height="250px"src="https://raw.githubusercontent.com/JermaineV/JermaineV.github.io/main/images/Data%20science%20portfolio.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow <Developers/>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 </p>
@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently learning, AI, Neural Networks and blockchain
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles on data science, ML, AI 
+- 👯 I’m looking to collaborate on Projects, blogs on DS, ML, AI.  
 
-- 💬 Talk to me about Python, SQL, database design and manipulation, Freelancing Opportunities, Open Source, etc. 
+- 💬 Please feel free to contact me with any opportunities: <a href="jvarnicker@gmail.com">email</a> 
 
 ---
 <h2> My Projects<img align='center'src='https://media.giphy.com/media/Cym9mYz9B5LpKJ8s2X/giphy.gif' width = '32px'></h2>
