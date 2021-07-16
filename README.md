@@ -24,9 +24,7 @@
 
 [Academic results](https://github.com/JermaineV/JermaineV.github.io/blob/fe920fff23c69a89d27bcd126911c67d6bb7b457/pdf/Progress%20Report.pdf)
 
-Certification badge:
-
-(<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b509cdcd-1d97-4ab1-8220-4e6a40f17179" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b509cdcd-1d97-4ab1-8220-4e6a40f17179" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 <h2> My Projects <img align='center'src='https://media.giphy.com/media/Cym9mYz9B5LpKJ8s2X/giphy.gif' width = '32px'></h2>
