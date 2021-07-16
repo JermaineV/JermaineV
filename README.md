@@ -5,6 +5,8 @@
 <h1> Hello and welcome <Developers/>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=JermaineV.JermaineV)
+
 </p>
 <div size='20px'> Hi! My name is Jermaine. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -41,7 +43,7 @@
 *Tools used*: pandas, numpy, nltk, sklearn, seaborn, matplotlib
 
 ---
-[Stock Market Analysis for Tech Stocks](loading): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+[Stock Market Analysis for Tech Stocks](https://github.com/JermaineV/JermaineV.github.io/blob/afb69756970cbd6b8f99f12eb3c8239a478ed92b/projects/Stock%20Market%20Analysis/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.https:
 
 *Tools used*: Pandas, Folium, Seaborn and Matplotlib
 
@@ -51,7 +53,7 @@
 *Tools used*: Pandas, Folium, Seaborn and Matplotlib
 
 ---
-[Unsupervised Learning: Creating Customer Segments](http://example.com/): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
+[Unsupervised Learning: Creating Customer Segments](https://github.com/JermaineV/JermaineV.github.io/blob/afb69756970cbd6b8f99f12eb3c8239a478ed92b/projects/Stock%20Market%20Analysis/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 
 *Tools used*: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame
 
