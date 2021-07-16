@@ -20,14 +20,17 @@
 - 💬 Please feel free to contact me with any opportunities: <a href="jvarnicker@gmail.com">email</a> 
 
 ---
-<h2> My Qualifications <img src = "https://media.giphy.com/media/gRN0zm4l1sJVUUoIvb/giphy.gif" width = 100px></h2></h2>
+<h2> My Qualifications </h2>
+
 
 [Academic results](https://github.com/JermaineV/JermaineV.github.io/blob/fe920fff23c69a89d27bcd126911c67d6bb7b457/pdf/Progress%20Report.pdf)
 
-[Microsoft T-SQL Certification](https://www.credly.com/badges/b509cdcd-1d97-4ab1-8220-4e6a40f17179/public_url
+<img src='https://media.giphy.com/media/fxT3qQ7NRbvP3Nle7V/giphy.gif' width = '100px'>
 
-Professional badge:
-<img align='https://github.com/JermaineV/JermaineV.github.io/blob/d10bbad4ecb2fe620147ffc05e6a2589ab3e3e99/images/exam-761-querying-data-with-transact-sql.png' width = '32px'></h2>
+
+[Microsoft T-SQL Certification](https://www.credly.com/badges/b509cdcd-1d97-4ab1-8220-4e6a40f17179/public_url)
+
+<img src='https://github.com/JermaineV/JermaineV.github.io/blob/d10bbad4ecb2fe620147ffc05e6a2589ab3e3e99/images/exam-761-querying-data-with-transact-sql.png' width = '100px'>
 
 ---
 <h2> My Projects <img align='center'src='https://media.giphy.com/media/Cym9mYz9B5LpKJ8s2X/giphy.gif' width = '32px'></h2>
