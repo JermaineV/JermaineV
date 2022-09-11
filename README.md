@@ -25,7 +25,7 @@
 <h2> My Qualifications </h2>
 
 
-[Academic results](pdf/3678482_Learnerships_5542337.trascript.pdf)
+[Certificates/Academic transcripts](pdf/pdfjoiner (1).pdf)
 
 <img src='https://media.giphy.com/media/fxT3qQ7NRbvP3Nle7V/giphy.gif' width = '100px'>
 
