@@ -25,7 +25,7 @@
 <h2> My Qualifications </h2>
 
 
-[Certificates-Academic transcripts]([pdf/pdfjoiner (1).pdf](https://github.com/JermaineV/JermaineV.github.io/blob/13a1326e545d2040b9740d11be64072125ec358e/pdf/pdfjoiner%20(1).pdf))
+[Certificates-Academic transcripts]((https://github.com/JermaineV/JermaineV.github.io/blob/13a1326e545d2040b9740d11be64072125ec358e/pdf/pdfjoiner%20(1).pdf))
 
 <img src='https://media.giphy.com/media/fxT3qQ7NRbvP3Nle7V/giphy.gif' width = '100px'>
 
