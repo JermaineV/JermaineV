@@ -59,7 +59,7 @@
 
 ---
 ### Mini Project
-[ML with Logistic Regressions](http://example.com/): : Using Logistic Regression to predict whether an internet user clicked an ad or not.
+[ML with Logistic Regressions-IN PROGRESS](https://github.com/JermaineV/JermaineV.github.io/blob/4f4d21e6c144b47b171b41878d8247d1dc47251d/images/giphy.gif): : Using Logistic Regression to predict whether an internet user clicked an ad or not.
 
 ---
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
