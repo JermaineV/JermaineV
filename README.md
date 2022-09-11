@@ -15,7 +15,7 @@
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2></h2>
 
 
-- 🌱 I’m currently learning, AI, Neural Networks and blockchain
+- 🌱 I’m currently learning, AI, Neural Networks and MAchine Learning
 
 - 👯 I’m looking to collaborate on Projects, blogs on DS, ML, AI.  
 
@@ -25,7 +25,7 @@
 <h2> My Qualifications </h2>
 
 
-[Certificates/Academic transcripts](pdf/pdfjoiner (1).pdf)
+[Certificates-Academic transcripts](pdf/pdfjoiner (1).pdf)
 
 <img src='https://media.giphy.com/media/fxT3qQ7NRbvP3Nle7V/giphy.gif' width = '100px'>
 
