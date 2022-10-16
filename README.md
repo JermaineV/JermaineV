@@ -48,6 +48,10 @@
 *Tools used*: Pandas, Folium, Seaborn and Matplotlib
 
 ---
+[Loan Dataset - Exploratory Data Analysis(EDA)](https://github.com/JermaineV/JermaineV.github.io/blob/64767819f9348fc10f7b66cb0078c57dcd89af55/projects/sub3/Part_I_exploration%20(2).ipynb): Exploratory Analysis of the Prosper Loans company loan data using Pandas and Seaborn visualisations.
+*Tools used*: Pandas, Seaborn and Matplotlib
+
+---
 [Titanic Dataset - Exploratory Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/6a4073a5f40449dcfef267ba95b3a2a8cb1891a6/projects/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
 
 *Tools used*: Pandas, Folium, Seaborn and Matplotlib
