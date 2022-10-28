@@ -37,6 +37,15 @@
 ---
 <h2> My Projects <img align='center'src='https://media.giphy.com/media/Cym9mYz9B5LpKJ8s2X/giphy.gif' width = '32px'></h2>
 
+#### Final college Data Science project:
+[This project/Report covers](https://github.com/JermaineV/JermaineV.github.io/blob/d48fc08d8aa787c23c76c7c268fdecece66d38e4/projects/82554fad24fc8c51be8c00565dcc62beb5b86660.pdf): Statistical analysis, PowerBI reporting and app deployment, Python DML. All Scenarios, code and data source infomation are included in the report.
+
+
+*Tools used*: PowerBi, Pandas, statistical methods.
+![image](https://user-images.githubusercontent.com/78037138/198569998-ceca43ca-c7e4-43cd-90a1-750abdd02368.png)
+
+---
+#### Personal projects:
 
 [Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/projects/credit_fraud_detection.ipynb.ipynb): Model that predicts transactional credit fraud by utilizing machine learning techniques. 
 
