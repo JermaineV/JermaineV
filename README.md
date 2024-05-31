@@ -48,7 +48,7 @@
 #### Personal projects:
 
 ---
-[AI Communication Coach 2024(in progress)](https://github.com/JermaineV/AI_Coach)This project aims to develop a platform that utilizes Artificial Intelligence (AI) to assist users in improving their communication skills for public speaking and interviews:
+[AI Communication Coach 2024(in progress)](https://github.com/JermaineV/AI_Coach): This project aims to develop a platform that utilizes Artificial Intelligence (AI) to assist users in improving their communication skills for public speaking and interviews:
 
 *Current Functionality*:
 **Speech Recognition**: Capture and analyze user speech,
