@@ -62,11 +62,11 @@ Integrate feedback mechanisms to improve the coach's responses over time,
 Explore additional features like voice synthesis for coach responses or sentiment visualization.
 
 *Tools used*: 
-**Python**: Programming Language
-**Jupyter Notebook**: Development environment
-***SpeechRecognition**: Speech Recognition
-**NLP Librarie**s: NLTK, spaCy, TextBlob
-**Transformers**: Hugging Face Transformers for text generation
+**Python**: Programming Language,
+**Jupyter Notebook**: Development environment,
+**SpeechRecognition**: Speech Recognition,
+**NLP Libraries**: NLTK, spaCy, TextBlob,
+**Transformers**: Hugging Face Transformers for text generation,
 **(Optional) OpenCV**: Computer Vision for future features
 
 ---
