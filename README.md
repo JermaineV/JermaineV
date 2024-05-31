@@ -38,7 +38,7 @@
 <h2> My Projects <img align='center'src='https://media.giphy.com/media/Cym9mYz9B5LpKJ8s2X/giphy.gif' width = '32px'></h2>
 
 #### Final college Data Science project:
-[This project/Report covers](https://github.com/JermaineV/JermaineV.github.io/blob/d48fc08d8aa787c23c76c7c268fdecece66d38e4/projects/82554fad24fc8c51be8c00565dcc62beb5b86660.pdf): Statistical analysis, PowerBI reporting and app deployment, Python DML. All Scenarios, code and data source infomation are included in the report.
+[This project/Report covers](https://github.com/JermaineV/JermaineV.github.io/blob/d48fc08d8aa787c23c76c7c268fdecece66d38e4/projects/82554fad24fc8c51be8c00565dcc62beb5b86660.pdf): Statistical analysis, PowerBI reporting and app deployment, Python, DML. All Scenarios, code and data source infomation are included in the report.
 
 
 *Tools used*: PowerBi, Pandas, statistical methods.
@@ -46,6 +46,27 @@
 
 ---
 #### Personal projects:
+
+---
+[AI Communication Coach 2024(in progress)]([https://github.com/JermaineV/JermaineV.github.io/blob/3cd011d8c890535696b4f633a4922cc58227dcb5/projects/Unsupervised%20Learning:%20Creating%20Customer%20Segments/customer_segments.ipynb](https://github.com/JermaineV/AI_Coach)): Current Functionality:
+-Speech Recognition: Capture and analyze user speech.
+-Text Analysis: Perform sentiment analysis, keyword extraction, and named entity recognition.
+-LLM Integration: Use pre-trained LLMs to generate responses based on user input.
+
+Future Development:
+-Enhance response generation using the LLM with context awareness and conversation history.
+-Integrate feedback mechanisms to improve the coach's responses over time.
+-Explore additional features like voice synthesis for coach responses or sentiment visualization.
+
+*Tools used*: 
+-Python: Programming Language
+-Jupyter Notebook: Development environment
+-SpeechRecognition: Speech Recognition
+-NLP Libraries: NLTK, spaCy, TextBlob
+-Transformers: Hugging Face Transformers for text generation
+-(Optional) OpenCV: Computer Vision for future features
+
+---
 
 [Credit Fraud Detection: Prediction/Analysis](https://github.com/JermaineV/JermaineV.github.io/blob/8a2abfaf8b460c895b00a8b8c990d91c0091e881/projects/credit_fraud_detection.ipynb.ipynb): Model that predicts transactional credit fraud by utilizing machine learning techniques. 
 
