@@ -48,7 +48,8 @@
 #### Personal projects:
 
 ---
-[AI Communication Coach 2024(in progress)]([https://github.com/JermaineV/JermaineV.github.io/blob/3cd011d8c890535696b4f633a4922cc58227dcb5/projects/Unsupervised%20Learning:%20Creating%20Customer%20Segments/customer_segments.ipynb](https://github.com/JermaineV/AI_Coach)): Current Functionality:
+[AI Communication Coach 2024(in progress)](https://github.com/JermaineV/AI_Coach): 
+Current Functionality:
 -Speech Recognition: Capture and analyze user speech.
 -Text Analysis: Perform sentiment analysis, keyword extraction, and named entity recognition.
 -LLM Integration: Use pre-trained LLMs to generate responses based on user input.
