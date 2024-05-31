@@ -51,23 +51,23 @@
 [AI Communication Coach 2024(in progress)](https://github.com/JermaineV/AI_Coach): This project aims to develop a platform that utilizes Artificial Intelligence (AI) to assist users in improving their communication skills for public speaking and interviews:
 
 *Current Functionality*:
-**Speech Recognition**: Capture and analyze user speech,
-**Text Analysis**: Perform sentiment analysis, keyword extraction, and named entity recognition,
-**LLM Integration**: Use pre-trained LLMs to generate responses based on user input.
+- **Speech Recognition**: Capture and analyze user speech,
+- **Text Analysis**: Perform sentiment analysis, keyword extraction, and named entity recognition,
+- **LLM Integration**: Use pre-trained LLMs to generate responses based on user input.
 [Video showcasing the initial features](https://1drv.ms/v/s!AuRvf69NQWuRqGrrkG9EW8cE-o4z?e=Amhrcv)
 
 *Future Development*:
-Enhance response generation using the LLM with context awareness and conversation history,
-Integrate feedback mechanisms to improve the coach's responses over time,
-Explore additional features like voice synthesis for coach responses or sentiment visualization.
+- Enhance response generation using the LLM with context awareness and conversation history,
+- Integrate feedback mechanisms to improve the coach's responses over time,
+- Explore additional features like voice synthesis for coach responses or sentiment visualization.
 
-*Tools used*: 
-**Python**: Programming Language,
-**Jupyter Notebook**: Development environment,
-**SpeechRecognition**: Speech Recognition,
-**NLP Libraries**: NLTK, spaCy, TextBlob,
-**Transformers**: Hugging Face Transformers for text generation,
-**(Optional) OpenCV**: Computer Vision for future features
+## Tools used: 
+- **Python**: Programming Language,
+- **Jupyter Notebook**: Development environment,
+- **SpeechRecognition**: Speech Recognition,
+- **NLP Libraries**: NLTK, spaCy, TextBlob,
+- **Transformers**: Hugging Face Transformers for text generation,
+- **(Optional) OpenCV**: Computer Vision for future features
 
 ---
 
