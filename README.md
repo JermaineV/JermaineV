@@ -48,7 +48,7 @@
 #### Personal projects:
 
 ---
-[AI Communication Coach 2024(in progress)](https://github.com/JermaineV/AI_Coach):
+[AI Communication Coach 2024(in progress)](https://github.com/JermaineV/AI_Coach)This project aims to develop a platform that utilizes Artificial Intelligence (AI) to assist users in improving their communication skills for public speaking and interviews:
 
 *Current Functionality*:
 **Speech Recognition**: Capture and analyze user speech,
@@ -98,9 +98,16 @@ Explore additional features like voice synthesis for coach responses or sentimen
 [Simple COVID-19 Self screening program using python](https://github.com/JermaineV/Simple-Covid-19-self-Screening-program.git): The programme will tell if someone has COVID-19 or not, based on a number of preset questions
 
 ---
-### Mini Project
-[ML with Logistic Regressions-**IN PROGRESS**](https://github.com/JermaineV/JermaineV.github.io/blob/4f4d21e6c144b47b171b41878d8247d1dc47251d/images/giphy.gif): Using Logistic Regression to predict whether an internet user clicked an ad or not.
+### Mini Project- CODING IN PROGRESS
+[Renewable Energy Usage Prediction](https://github.com/JermaineV/Renewable-Energy-Usage-Prediction): Work in progress: Using machine learning models to predict trends in renewable energy usage based on historical data and various socio-economic factors.
 
+## Tools used: 
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Scikit-learn**
+- **Matplotlib**
+- **Seaborn**
 ---
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/JermaineV?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
